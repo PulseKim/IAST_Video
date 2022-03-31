@@ -1,0 +1,36 @@
+﻿빌드 시작: 2016-12-10 오후 12:05:33
+     1>2 노드의 "C:\Users\Pulse\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\Pulse\OPENCV2\opencv\build\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ddd.cpp
+         ddd.cpp
+     1>c:\users\pulse\opencv2\opencv\build\include\opencv2\stitching\detail\motion_estimators.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(79): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(185): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(292): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(442): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(443): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(444): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(558): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(559): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(560): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(669): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(669): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(893): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(1236): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(1259): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(1260): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(1261): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(1367): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(1368): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(1369): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(1545): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(1635): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\pulse\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\ddd.cpp(1743): warning C4101: 'an' :참조되지 않은 지역 변수입니다.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Pulse\documents\visual studio 2013\Projects\ConsoleApplication3\Debug\ConsoleApplication3.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\Pulse\OPENCV2\opencv\build\x86\vc12\lib opencv_calib3d2413d.lib opencv_contrib2413d.lib opencv_core2413d.lib opencv_features2d2413d.lib opencv_flann2413d.lib opencv_gpu2413d.lib opencv_highgui2413d.lib opencv_imgproc2413d.lib opencv_legacy2413d.lib opencv_ml2413d.lib opencv_nonfree2413d.lib opencv_objdetect2413d.lib opencv_ocl2413d.lib opencv_photo2413d.lib opencv_stitching2413d.lib opencv_superres2413d.lib opencv_ts2413d.lib opencv_video2413d.lib opencv_videostab2413d.lib opencv_calib3d2413.lib opencv_contrib2413.lib opencv_core2413.lib opencv_features2d2413.lib opencv_flann2413.lib opencv_gpu2413.lib opencv_highgui2413.lib opencv_imgproc2413.lib opencv_legacy2413.lib opencv_ml2413.lib opencv_nonfree2413.lib opencv_objdetect2413.lib opencv_ocl2413.lib opencv_photo2413.lib opencv_stitching2413.lib opencv_superres2413.lib opencv_ts2413.lib opencv_video2413.lib opencv_videostab2413.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Pulse\documents\visual studio 2013\Projects\ConsoleApplication3\Debug\ConsoleApplication3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Pulse\documents\visual studio 2013\Projects\ConsoleApplication3\Debug\ConsoleApplication3.lib" /MACHINE:X86 Debug\ddd.obj
+         ConsoleApplication3.vcxproj -> C:\Users\Pulse\documents\visual studio 2013\Projects\ConsoleApplication3\Debug\ConsoleApplication3.exe
+     1>"C:\Users\Pulse\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.67
